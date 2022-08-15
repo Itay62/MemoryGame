@@ -1,0 +1,10 @@
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\MemoryGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\MemoryGame.csproj.CopyComplete
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\itay6\HaToaar\YearII\SemesterII\C#\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\C22 Ex02 ShakedHagag 316079599 ItayJacobson 206119901\UserInterface\obj\Debug\UserInterface.pdb
